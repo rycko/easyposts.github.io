@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>instagram on Easyposts</title>
+    <link>https://easyposts.online/tags/instagram/</link>
+    <description>Recent content in instagram on Easyposts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://easyposts.online/tags/instagram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Como funciona el algoritmo de instagram?</title>
+      <link>https://easyposts.online/blog/algoritmo-de-instagram/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://easyposts.online/blog/algoritmo-de-instagram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>¿Como tener una cuenta con más followers en instagram?</title>
+      <link>https://easyposts.online/blog/followers-en-instagram/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://easyposts.online/blog/followers-en-instagram/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

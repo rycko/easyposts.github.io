@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>facebook on Easyposts</title>
+    <link>https://easyposts.online/tags/facebook/</link>
+    <description>Recent content in facebook on Easyposts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://easyposts.online/tags/facebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebook gaming y un poco de twitch</title>
+      <link>https://easyposts.online/blog/facebook-gaming/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://easyposts.online/blog/facebook-gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>¿Que es y como funciona facebook business manager?</title>
+      <link>https://easyposts.online/blog/facebook-bussiness/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://easyposts.online/blog/facebook-bussiness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
