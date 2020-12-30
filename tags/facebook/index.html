@@ -24,6 +24,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
   <link rel="stylesheet" href="/css/bundle.min.d9e04ae08c9b3049b766dbd4aeab7d862c5ea1d13679b621490e0f5df5507497.css" integrity="sha256-2eBK4IybMEm3ZtvUrqt9hixeodE2ebYhSQ4PXfVQdJc="><link rel="stylesheet" href="/css/add-on.css">
   <script data-ad-client="ca-pub-5594416696535937" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" 
+        integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" 
+        crossorigin="anonymous">
+</script>
+<script src="dist/jquery.cookieMessage.min.js"></script>
 </head>
 
   <body>
@@ -439,8 +444,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <br>
   </p>
 </footer>
-<a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
 
+<a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
+$.cookieMessage({
+  'mainMessage':  'Este sitio web utiliza cookies. Al utilizar este sitio web, acepta el uso de estas cookies. Para más información visite nuestras <a href="https://easyposts.online/politicas-de-privacidad">políticas de privacidad</a>. ',
+    'acceptButton': 'Ok!'
+});
       <script src="/js/highlight.js"></script>
     
     <script>hljs.initHighlightingOnLoad();</script><script src="/js/bundle.min.4efdc91331c8f3aa131aa7b55f210ad18887210bd5d3a135b04025be51c8c158.js" integrity="sha256-Tv3JEzHI86oTGqe1XyEK0YiHIQvV06E1sEAlvlHIwVg="></script>
