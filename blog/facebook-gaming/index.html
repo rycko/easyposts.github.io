@@ -31,7 +31,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" 
         crossorigin="anonymous">
 </script>
-<script src="dist/jquery.cookieMessage.min.js"></script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookieMessage.min.js"></script>
 </head>
 
   <body>
@@ -497,13 +499,16 @@ Facebook gaming funciona como twitch tú transmites desde tu página, la gente p
     © 2020 EASYPOSTS by <a href="https://rycko.github.io/">RYCKO</a>
       <br>
   </p>
+  <script type="text/javascript">
+$.cookieMessage({
+    'mainMessage': 'Utilizamos cookies propias para garantizar la mejor experiencia a nuestros usuarios, elaborar información estadística y mejorar el rendimiento de nuestro sitio web. <br> Si clicas en <strong>Aceptar</strong> o continúas navegando, estarás aceptando los términos indicados en nuestra <a href="/path/to/politica-privacidad.html">política de cookies</a>. ',
+    'acceptButton': 'Aceptar',
+});
+</script>
 </footer>
 
 <a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
-$.cookieMessage({
-  'mainMessage':  'Este sitio web utiliza cookies. Al utilizar este sitio web, acepta el uso de estas cookies. Para más información visite nuestras <a href="https://easyposts.online/politicas-de-privacidad">políticas de privacidad</a>. ',
-    'acceptButton': 'Ok!'
-});
+
       <script src="/js/highlight.js"></script>
     
     <script>hljs.initHighlightingOnLoad();</script><script src="/js/bundle.min.4efdc91331c8f3aa131aa7b55f210ad18887210bd5d3a135b04025be51c8c158.js" integrity="sha256-Tv3JEzHI86oTGqe1XyEK0YiHIQvV06E1sEAlvlHIwVg="></script>
